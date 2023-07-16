@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Nextjs,react fastapi**
 
-- 👨‍💻 All of my projects are available at [https://blackbirddev.me](https://amermohammed.me)
+- 👨‍💻 All of my projects are available at [https://amermohammed.me](https://amermohammed.me)
 
 - 💬 Ask me about **flutter and js**
 
