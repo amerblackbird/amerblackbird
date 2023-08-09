@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **amermohammed@gmail.com**
 
-- ⚡ Fun fact **I think i am lasy developer**
+- ⚡ Fun fact **I think i am a lazy developer**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
